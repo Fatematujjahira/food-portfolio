@@ -8,8 +8,9 @@ h1{
     .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 50px;
     
 }
 
@@ -27,4 +28,28 @@ section{
     color: papayawhip;
     font-weight: 700;
     border-radius: 5px;
+}.story{
+    width: 50%;
+    padding: 2%;
+    margin-top: 100px;
 }
+.frame{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.healthy-food{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    
+}
+.test-area{
+    
+} 
+.experiences {
+    width: 40%;
+    box-shadow: 10px 10px 40px grey ;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 5px;
+    border-radius: 5px;
+}
+.test-area{}
